@@ -43,49 +43,49 @@ Total deals tracked: **36**
 
 ### 2026 (27 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-10-26 | Halloween cut of 40% on five challenge types | 40% off | 2026-10-31 23:59 | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) |
-| 2026-10-14 | Save 47% On Bulk Evaluation Account Packages | 47% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/) |
-| 2026-10-09 | 35% To 50% Off Evaluation And Instant Challenge Pricing | 50% off | 2026-10-14 (ended) | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/) |
-| 2026-10-02 | 35% Off Challenge Pricing and Weekly Payouts | 35% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/) |
-| 2026-09-09 | 5 Evaluation Accounts For $5 Initial Purchase Cost | Only $5 | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-5-accounts-5-dollars-deal/) |
-| 2026-09-03 | 50% Off 300k And 400k Instant Elite Accounts | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-50-off-instant-elite/) |
-| 2026-09-03 | 35% Off Evaluation Accounts | 35% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-off-evaluations/) |
-| 2026-07-29 | 25% To 35% Off Post-Evaluation Activation Pricing | 35% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/25-to-35-off-activation-fees/) |
-| 2026-06-11 | World Cup Promotion: Up to 40% Off Upfront Fees | 40% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-world-cup-promotion/) |
-| 2026-06-01 | 30% Off Scaling Ladder Cost | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-catalyst/) |
-| 2026-06-01 | 35% Off Evaluation and Direct Accounts | 35% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-off-instant-lite/) |
-| 2026-05-26 | 25% Off The Catalyst Upfront Cost | 25% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-catalyst/) |
-| 2026-05-19 | 30% Discount on All Account Models | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-all-accounts/) |
-| 2026-05-03 | 35% Off Evaluation and Instant Account Pricing | 35% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-discount-payouts/) |
-| 2026-04-23 | 30% Discount on 100K Evaluations and Direct Funding | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-14-drawdown-deal/) |
-| 2026-04-21 | $1 Evaluation Accounts Up to 200K | Only $1 | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-1-dollar-flash-activation-accounts/) |
-| 2026-04-07 | 25% Off Instant Account Cost | 25% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-instant-accounts/) |
-| 2026-04-07 | 20% Off Standard and Lite Challenge Pricing | 20% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-standard-lite/) |
-| 2026-04-06 | Promotion: Up to $148 Off Flash Activation Accounts | $148 OFF | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-flash-activation-promotion/) |
-| 2026-04-01 | 30% Discount Challenge Pricing Event | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-accounts-easter/) |
-| 2026-04-01 | $1 Flash Activation Account Purchase Promotion | Only $1 | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-1-dollar-flash-activation-easter/) |
-| 2026-03-19 | 25% Discount on All Trading Challenges With 95% Profit Split | 25% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-95-split-st-patricks-day/) |
-| 2026-03-13 | $1.70 Flash Activation Entry Cost | Only $1.70 | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-1-70-flash-activation/) |
-| 2026-03-06 | 25% Off Standard and Lite and 20% Off Instant Evaluation Accounts | 25% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-standard-lite-20-off-instant-deal/) |
-| 2026-02-06 | 30% Off Entry Cost + Account Parameter Upgrades | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-30-off-february-promotion/) |
-| 2026-01-19 | 26% OFF Flash Activation Fees (Auto-Applied) | 26% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-flash-activation-offer-26-off/) |
-| 2026-01-07 | Promotion: 30% OFF Accounts + 95% Split or 14% Drawdown | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-promotion-30-off-add-ons/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-10-26 | Halloween cut of 40% on five challenge types | 40% off | 2026-10-31 23:59 | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) |
+| 2026-10-14 | Save 47% On Bulk Evaluation Account Packages | 47% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/) |
+| 2026-10-09 | 35% To 50% Off Evaluation And Instant Challenge Pricing | 50% off | 2026-10-14 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/) |
+| 2026-10-02 | 35% Off Challenge Pricing and Weekly Payouts | 35% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/) |
+| 2026-09-09 | 5 Evaluation Accounts For $5 Initial Purchase Cost | Only $5 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-5-accounts-5-dollars-deal/) |
+| 2026-09-03 | 50% Off 300k And 400k Instant Elite Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-50-off-instant-elite/) |
+| 2026-09-03 | 35% Off Evaluation Accounts | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-off-evaluations/) |
+| 2026-07-29 | 25% To 35% Off Post-Evaluation Activation Pricing | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/25-to-35-off-activation-fees/) |
+| 2026-06-11 | World Cup Promotion: Up to 40% Off Upfront Fees | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-world-cup-promotion/) |
+| 2026-06-01 | 30% Off Scaling Ladder Cost | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-catalyst/) |
+| 2026-06-01 | 35% Off Evaluation and Direct Accounts | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-off-instant-lite/) |
+| 2026-05-26 | 25% Off The Catalyst Upfront Cost | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-catalyst/) |
+| 2026-05-19 | 30% Discount on All Account Models | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-all-accounts/) |
+| 2026-05-03 | 35% Off Evaluation and Instant Account Pricing | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-discount-payouts/) |
+| 2026-04-23 | 30% Discount on 100K Evaluations and Direct Funding | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-14-drawdown-deal/) |
+| 2026-04-21 | $1 Evaluation Accounts Up to 200K | Only $1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-1-dollar-flash-activation-accounts/) |
+| 2026-04-07 | 25% Off Instant Account Cost | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-instant-accounts/) |
+| 2026-04-07 | 20% Off Standard and Lite Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-standard-lite/) |
+| 2026-04-06 | Promotion: Up to $148 Off Flash Activation Accounts | $148 OFF | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-flash-activation-promotion/) |
+| 2026-04-01 | 30% Discount Challenge Pricing Event | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-accounts-easter/) |
+| 2026-04-01 | $1 Flash Activation Account Purchase Promotion | Only $1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-1-dollar-flash-activation-easter/) |
+| 2026-03-19 | 25% Discount on All Trading Challenges With 95% Profit Split | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-95-split-st-patricks-day/) |
+| 2026-03-13 | $1.70 Flash Activation Entry Cost | Only $1.70 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-1-70-flash-activation/) |
+| 2026-03-06 | 25% Off Standard and Lite and 20% Off Instant Evaluation Accounts | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-standard-lite-20-off-instant-deal/) |
+| 2026-02-06 | 30% Off Entry Cost + Account Parameter Upgrades | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-30-off-february-promotion/) |
+| 2026-01-19 | 26% OFF Flash Activation Fees (Auto-Applied) | 26% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-flash-activation-offer-26-off/) |
+| 2026-01-07 | Promotion: 30% OFF Accounts + 95% Split or 14% Drawdown | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-promotion-30-off-add-ons/) |
 
 ### 2025 (9 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2025-12-22 | Christmas Deal: 40% Off Instant Accounts Starting $491 | 40% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-christmas-deal-40-off/) |
-| 2025-12-04 | Lite Account Deal: 25% Off + 14% Drawdown Boost | 25% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-lite-account-deal-25-off-14-drawdown/) |
-| 2025-12-04 | December Offer: 30% Off Standard & Instant + 14% DD | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-december-offer-30-off-standard-instant/) |
-| 2025-11-24 | Black Friday Deal: Start Any Account for Only $1 | Only $1 | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-black-friday-1-dollar-start-challenge/) |
-| 2025-11-11 | 35% OFF Instant & Lite Challenges + 14% Total Drawdown (November Deal) | 35% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-35-off-instant-lite-14-total-drawdown/) |
-| 2025-11-11 | 40% OFF Standard Challenges + 14% Total Drawdown (November Offer) | 40% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-40-off-standard-challenges-14-total-drawdown/) |
-| 2025-11-08 | 50% OFF — First Challenge for New Sign-Ups (Limited Time) | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-50-off-first-challenge-new-sign-ups/) |
-| 2025-10-20 | Halloween — 35% OFF Instant & Lite Accounts + Max Loss Up to 14% (Ends Oct 31) | 35% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-halloween-35-off-instant-lite-accounts-max-loss-up-to-14-ends-oct-31/) |
-| 2025-10-20 | Halloween — 40% OFF Standard Accounts + Max Loss Up to 14% (Ends Oct 31) | 40% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-halloween-40-off-standard-accounts-max-loss-14-ends-oct-31/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2025-12-22 | Christmas Deal: 40% Off Instant Accounts Starting $491 | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-christmas-deal-40-off/) |
+| 2025-12-04 | Lite Account Deal: 25% Off + 14% Drawdown Boost | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-lite-account-deal-25-off-14-drawdown/) |
+| 2025-12-04 | December Offer: 30% Off Standard & Instant + 14% DD | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-december-offer-30-off-standard-instant/) |
+| 2025-11-24 | Black Friday Deal: Start Any Account for Only $1 | Only $1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-black-friday-1-dollar-start-challenge/) |
+| 2025-11-11 | 35% OFF Instant & Lite Challenges + 14% Total Drawdown (November Deal) | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-35-off-instant-lite-14-total-drawdown/) |
+| 2025-11-11 | 40% OFF Standard Challenges + 14% Total Drawdown (November Offer) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-40-off-standard-challenges-14-total-drawdown/) |
+| 2025-11-08 | 50% OFF — First Challenge for New Sign-Ups (Limited Time) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-50-off-first-challenge-new-sign-ups/) |
+| 2025-10-20 | Halloween — 35% OFF Instant & Lite Accounts + Max Loss Up to 14% (Ends Oct 31) | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-halloween-35-off-instant-lite-accounts-max-loss-up-to-14-ends-oct-31/) |
+| 2025-10-20 | Halloween — 40% OFF Standard Accounts + Max Loss Up to 14% (Ends Oct 31) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-halloween-40-off-standard-accounts-max-loss-14-ends-oct-31/) |
 
 ---
 
@@ -112,6 +112,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
