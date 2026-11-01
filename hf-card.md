@@ -34,7 +34,7 @@ As of 2026-10-26, the verified Funded Elite discount code is AFF1864062 — up t
 ## Current Funded Elite deal: Halloween cut of 40% on five challenge types
 
 - Published: 2026-10-26
-- Offer ends: 2026-10-31 23:59
+- Offer ends: 2026-10-31 23:59 (ended)
 - Offer: 40% off
 - Event: Halloween
 - Scope: Free Retry, Lite, Instant, Instant Elite, Catalyst, Atom, Flash Activation, Activation Fee
@@ -53,7 +53,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Funded Elite deal?**
 
-**Halloween cut of 40% on five challenge types** — published 2026-10-26. Offer ends: 2026-10-31 23:59. The offer is 40% off.
+**Halloween cut of 40% on five challenge types** — published 2026-10-26. Offer ends: 2026-10-31 23:59 (ended). The offer is 40% off.
 
 ---
 
@@ -65,7 +65,7 @@ Total deals tracked: **36**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-26 | Halloween cut of 40% on five challenge types | 40% off | 2026-10-31 23:59 | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) |
+| 2026-10-26 | Halloween cut of 40% on five challenge types | 40% off | 2026-10-31 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) |
 | 2026-10-14 | Save 47% On Bulk Evaluation Account Packages | 47% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/) |
 | 2026-10-09 | 35% To 50% Off Evaluation And Instant Challenge Pricing | 50% off | 2026-10-14 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/) |
 | 2026-10-02 | 35% Off Challenge Pricing and Weekly Payouts | 35% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/) |
