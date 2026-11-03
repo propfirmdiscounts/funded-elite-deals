@@ -1,25 +1,25 @@
 # Funded Elite - Discount Codes & Deal History
 
-As of 2026-11-02, the verified Funded Elite discount code is AFF1864062 — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-03, the verified Funded Elite discount code is AFF1864062 — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: AFF1864062
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-02
+- Last deal published: 2026-11-03
 - Trustpilot: 4.2/5 (743 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedelite
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Funded Elite deal: 40% off five account types in November
+## Current Funded Elite deal: 55% off Instant Elite accounts in November
 
-- Published: 2026-11-02
+- Published: 2026-11-03
 - Offer ends: 2026-11-22 18:59
-- Offer: 40% off
-- Scope: Five Account Types: Free Retry, Lite, Instant, Instant Elite And Catalyst, Including Instant Elite Accounts Up To $200K
+- Offer: 55% off
+- Scope: $300K And $400K Instant Elite Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-40-off-account-types/
+- Deal page: https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/
 
 ## Funded Elite discount code FAQ
 
@@ -33,18 +33,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Funded Elite deal?**
 
-**40% off five account types in November** — published 2026-11-02. Offer ends: 2026-11-22 18:59. The offer is 40% off.
+**55% off Instant Elite accounts in November** — published 2026-11-03. Offer ends: 2026-11-22 18:59. The offer is 55% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **37**
+Total deals tracked: **38**
 
-### 2026 (28 deals)
+### 2026 (29 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-03 | 55% off Instant Elite accounts in November | 55% off | 2026-11-22 18:59 | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/) |
 | 2026-11-02 | 40% off five account types in November | 40% off | 2026-11-22 18:59 | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-40-off-account-types/) |
 | 2026-10-26 | Halloween cut of 40% on five challenge types | 40% off | 2026-10-31 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) |
 | 2026-10-14 | Save 47% On Bulk Evaluation Account Packages | 47% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/) |
