@@ -1,4 +1,4 @@
-# Funded Elite Discount Code
+# Funded Elite - Discount Codes & Deal History
 
 As of 2026-11-02, the verified Funded Elite discount code is AFF1864062 — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
@@ -49,7 +49,7 @@ Total deals tracked: **37**
 | 2026-10-26 | Halloween cut of 40% on five challenge types | 40% off | 2026-10-31 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) |
 | 2026-10-14 | Save 47% On Bulk Evaluation Account Packages | 47% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/) |
 | 2026-10-09 | 35% To 50% Off Evaluation And Instant Challenge Pricing | 50% off | 2026-10-14 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/) |
-| 2026-10-02 | 35% Off Challenge Pricing and Weekly Payouts | 35% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/) |
+| 2026-10-02 | 35% Off Challenge Pricing and Weekly Payouts | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/) |
 | 2026-09-09 | 5 Evaluation Accounts For $5 Initial Purchase Cost | Only $5 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-5-accounts-5-dollars-deal/) |
 | 2026-09-03 | 50% Off 300k And 400k Instant Elite Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-50-off-instant-elite/) |
 | 2026-09-03 | 35% Off Evaluation Accounts | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-off-evaluations/) |
