@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: funded-elite-discount-codes
+  HF_NAMESPACE: fundedelite
+  HF_REPO_NAME: funded-elite-deals
   FIRM_SLUG: funded-elite
   DEALSTORE_ID: 204
   FIRM_NAME: Funded Elite
