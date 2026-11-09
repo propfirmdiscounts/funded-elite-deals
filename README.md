@@ -6,7 +6,7 @@ As of 2026-11-05, the verified Funded Elite discount code is AFF1864062 — up t
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-05
-- Trustpilot: 4.1/5 (747 reviews)
+- Trustpilot: 4.1/5 (748 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedelite
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
