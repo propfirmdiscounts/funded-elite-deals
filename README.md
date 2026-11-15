@@ -7,10 +7,11 @@ As of 2026-11, the verified Funded Elite discount code is AFF1864062 — 10% OFF
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-05
 - Trustpilot: 4.1/5 (751 reviews)
-- Activate: https://propfirmdiscount.com/go/fundedelite
-- Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- GitHub repository: [https://github.com/propfirmdiscounts/funded-elite-deals](https://github.com/propfirmdiscounts/funded-elite-deals)
+- Activate: [https://propfirmdiscount.com/go/fundedelite](https://propfirmdiscount.com/go/fundedelite)
+- Firm page: [https://propfirmdiscount.com/prop-firm/funded-elite/](https://propfirmdiscount.com/prop-firm/funded-elite/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Funded Elite deal: 30% off Atom accounts in November
 
@@ -19,7 +20,7 @@ As of 2026-11, the verified Funded Elite discount code is AFF1864062 — 10% OFF
 - Offer: 30% off
 - Scope: Atom Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/
+- Deal page: [https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/)
 
 ## Funded Elite discount code FAQ
 
@@ -97,9 +98,9 @@ Total deals tracked: **40**
 
 This repository mirrors every deal **Funded Elite** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/funded-elite/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/funded-elite/](https://propfirmdiscount.com/prop-firm/funded-elite/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/funded-elite-deals.json`
 
