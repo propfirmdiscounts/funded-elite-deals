@@ -50,7 +50,7 @@ Total deals tracked: **40**
 | 2026-11-03 | Funded Elite: 55% off Instant Elite accounts in November | 55% off | 2026-11-22 18:59 | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/) |
 | 2026-11-02 | Funded Elite: 40% off five account types in November | 40% off | 2026-11-22 18:59 | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-40-off-account-types/) |
 | 2026-10-26 | Funded Elite: Halloween cut of 40% on five challenge types | 40% off | 2026-10-31 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) |
-| 2026-10-14 | Funded Elite: Save 47% On Bulk Evaluation Account Packages | 47% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/) |
+| 2026-10-14 | Funded Elite: Save 47% On Bulk Evaluation Account Packages | 47% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/) |
 | 2026-10-09 | Funded Elite: 35% To 50% Off Evaluation And Instant Challenge Pricing | 50% off | 2026-10-14 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/) |
 | 2026-10-02 | Funded Elite: 35% Off Challenge Pricing and Weekly Payouts | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/) |
 | 2026-09-09 | Funded Elite: 5 Evaluation Accounts For $5 Initial Purchase Cost | Only $5 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-5-accounts-5-dollars-deal/) |
