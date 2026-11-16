@@ -1,6 +1,6 @@
 # Funded Elite - Discount Codes & Deal History
 
-As of 2026-11, the verified Funded Elite discount code is AFF1864062 — 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Funded Elite discount code is AFF1864062 — 10% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
 
 - Code: AFF1864062
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
