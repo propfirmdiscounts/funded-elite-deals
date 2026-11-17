@@ -1,4 +1,4 @@
-# Funded Elite Discount Code & Deal History
+# Funded Elite Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Funded Elite discount code is AFF1864062 — 10% OFF, which can be applied on the checkout page anytime. The newest is "30% off Atom accounts in November".
 
@@ -7,7 +7,7 @@ As of November 2026, the verified Funded Elite discount code is AFF1864062 — 1
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-05
 - Trustpilot: [4/5 (755 reviews)](https://www.trustpilot.com/review/fundedelite.com)
-- GitHub repository: [Funded Elite Deals Repository](https://github.com/propfirmdiscounts/funded-elite-deals)
+- GitHub repository: [Funded Elite Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/funded-elite-deals)
 - Activate: [Activate Funded Elite Discount Code](https://propfirmdiscount.com/go/fundedelite)
 - Firm page: [Funded Elite Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/funded-elite/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -22,7 +22,7 @@ As of November 2026, the verified Funded Elite discount code is AFF1864062 — 1
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Funded Elite Deal Page](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/)
 
-## Funded Elite Discount Code & Deals FAQ
+## Funded Elite Discount Code & Deals History FAQ
 
 **What is the Funded Elite discount code?**
 
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Funded Elite Deal History
+## Funded Elite Deals History
 
 Total deals tracked: **40**
 
@@ -94,7 +94,7 @@ Total deals tracked: **40**
 
 ---
 
-## About the Funded Elite Deals Dataset
+## About the Funded Elite Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Funded Elite** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -102,7 +102,7 @@ This repository mirrors every deal **Funded Elite** has published on PropFirmDis
 - Prop firm profile: [Funded Elite Profile](https://propfirmdiscount.com/prop-firm/funded-elite/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Funded Elite Deal Dataset: Field Definitions
+## Funded Elite Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

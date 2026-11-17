@@ -1,4 +1,4 @@
-# Funded Elite Discount Codes
+# Funded Elite Discount Code & Deals History
 
 This dataset tracks historical deal observations for Funded Elite from PropFirmDiscount.com.
 
